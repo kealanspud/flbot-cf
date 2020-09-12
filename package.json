@@ -21,7 +21,7 @@
     "ffmpeg-binaries": "^4.0.0",
     "hawk": "^7.0.7",
     "hoek": "^5.0.3",
-    "node-fetch": "^2.1.2",
+    "node-fetch": "^2.6.1",
     "node-opus": "^0.2.7",
     "random-org": "^0.1.5",
     "raven": "^0.10.0",
